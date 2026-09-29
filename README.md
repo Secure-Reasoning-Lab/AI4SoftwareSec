@@ -18,4 +18,4 @@ Keep this repository and its URL for future editions. Before replacing an editio
 
 ## Credits
 
-The workshop layout and San Francisco banner are adapted from the organizer-provided Efficient Reasoning 2026 website. That template is based on [Start Bootstrap Agency](https://startbootstrap.com/theme/agency). Portraits are from the homepages of [Jiahao Yu](https://hubertyoo.github.io/) and [Yan Chen](https://users.cs.northwestern.edu/~ychen/).
+The workshop layout is adapted from the organizer-provided Efficient Reasoning 2026 website, based on [Start Bootstrap Agency](https://startbootstrap.com/theme/agency). The San Francisco skyline photograph is by [Casey Horner on Unsplash](https://unsplash.com/photos/tymOL8yT8XM), used under the [Unsplash License](https://unsplash.com/license). Portraits are from the homepages of [Jiahao Yu](https://hubertyoo.github.io/) and [Yan Chen](https://users.cs.northwestern.edu/~ychen/).

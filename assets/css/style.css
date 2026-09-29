@@ -33,7 +33,7 @@ h4 { font-size: 19px; font-weight: 650; }
 .nav-links a { color: var(--muted); font-size: 13px; font-weight: 600; text-decoration: none; white-space: nowrap; }
 .nav-links a:hover { color: var(--blue); }
 .menu-toggle { display: none; }
-.hero { color: #fff; position: relative; background: linear-gradient(110deg, rgba(7, 28, 47, .89), rgba(9, 29, 49, .65)), url("../images/san-francisco.png") center 55% / cover; }
+.hero { color: #fff; position: relative; background: linear-gradient(180deg, rgba(7, 28, 47, .48), rgba(7, 28, 47, .58) 55%, rgba(7, 28, 47, .72)), url("../images/san-francisco-skyline.webp") center 76% / cover; }
 .hero-content { padding-block: 70px 64px; text-align: center; }
 .eyebrow { font-size: 12px; letter-spacing: 1.9px; text-transform: uppercase; font-weight: 700; }
 .hero-eyebrow { color: #d2e6ec; margin-bottom: 24px; }
